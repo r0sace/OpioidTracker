@@ -2,7 +2,7 @@
 
 Created by: Rebecca Chen, Cristina Rosace, Blake Hakkila, and Brandon Arsenault for the Future of Healthcare by Datavant Hackathon
 
-This is an application meant to inform the user on the opioid epidemic in American. This dashboard uses Dash, Pandas, and various API's to display data in graph form regarding opioid prescription rate changes, opioid fatal overdose events, and opioid non-fatal overdose events via state and county entered by the user.
+This is an application used to inform the user on the opioid epidemic in America. This dashboard uses Dash, Pandas, and various API's to graphically dispaly data regarding opioid prescription rate changes, opioid fatal overdose events, and opioid non-fatal overdose events via state and county entered by the user.
 
 This application also informs the user on various medication alternatives, therapeutic alternatives, and national resources.
 
